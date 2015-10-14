@@ -1,6 +1,8 @@
 import java.awt.*;
 import javax.swing.*;
 
+/**U10111033, Computer science 4, Hsueh_Hsin Lu*/
+
 public class TestPanels extends JFrame {
   public TestPanels() {
     // Create panel p1 for the buttons and set GridLayout
